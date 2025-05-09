@@ -1,4 +1,4 @@
 package az.turing.bookingspring.controller;
 
-public interface FlightController {
+public class FlightController {
 }
